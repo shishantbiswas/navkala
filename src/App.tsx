@@ -39,7 +39,7 @@ function Products() {
     <div className="">
       <h1 className="uppercase text-center">Products</h1>
       <div className="grid md:px-6 md:gap-4 grid-cols-2 ">
-        <Product src="/chakri.webp" />
+        <Product src="/aashon.webp" />
         <Product src="/9.webp" />
         <Product src="/16.webp" />
         <Product src="/1.webp" />
