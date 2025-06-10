@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: 'Marykate';
+  src: url('/Marykate-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body {
+  font-family: 'Marykate', sans-serif;
+}
